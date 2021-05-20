@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplot
+numpy
+statsmodels
+datetime
+pystan==2.19.1.1
+prophet
+plotly
+scikit-learn
